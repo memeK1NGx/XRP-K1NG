@@ -1,0 +1,9 @@
+xrpl-py==2.3.0
+requests==2.32.3
+websockets==12.0
+qutip==5.0.4
+textblob==0.18.0.post0
+python-telegram-bot==13.15
+streamlit==1.38.0
+python-dotenv==1.0.1
+numpy==2.0.2
