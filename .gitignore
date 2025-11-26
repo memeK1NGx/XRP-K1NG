@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.log
+crash.log
+sniper_log.json
+scoring_log.json
+trade_outcomes.json
+.DS_Store
