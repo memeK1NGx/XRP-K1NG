@@ -23,4 +23,4 @@ Built to detect AMM pools in real time and auto-snipe top-scoring tokens.
 2. Create `.env` file (see `.env.example`)
 3. Install requirements:  
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt<!-- Trigger redeploy -->
